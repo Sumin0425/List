@@ -1,0 +1,25 @@
+﻿  ShopManage.c
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(43): warning C4022: '포인터를 통한 함수': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(50): warning C4022: '포인터를 통한 함수': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(50): warning C4022: '포인터를 통한 함수': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(28): warning C4133: '초기화 중': 'CUSTOMER *'과(와) 'CUSTOMER *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(29): warning C4133: '초기화 중': 'CUSTOMER *'과(와) 'CUSTOMER *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(138): warning C4133: '함수': 'CUSTOMER *'과(와) 'CUSTOMER *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(116): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(122): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(128): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(155): warning C4013: '_delete'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(159): error C2371: '_delete': 재정의. 기본 형식이 다릅니다.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(183): warning C4133: '=': 'CUSTOMER *'과(와) 'CUSTOMER *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\hw2_2\hw2_2\list_adt.h(296): warning C4133: '초기화 중': 'CUSTOMER *'과(와) 'CUSTOMER *' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\hw2_2\hw2_2\shopmanage.c(41): warning C4047: '함수': 'void **'의 간접 참조 수준이 'CUSTOMER *'과(와) 다릅니다.
+c:\users\user\source\repos\hw2_2\hw2_2\shopmanage.c(41): warning C4022: 'removeNode': 실제 매개 변수 3의 포인터가 일치하지 않습니다.
+c:\users\user\source\repos\hw2_2\hw2_2\shopmanage.c(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\source\repos\hw2_2\hw2_2\shopmanage.c(39): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\source\repos\hw2_2\hw2_2\shopmanage.c(51): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
